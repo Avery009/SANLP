@@ -2,7 +2,7 @@ This is the initial POC of an NLP dedicated to categorizing and flagging sexual 
 
 This program is dedicated to the initiative of Samantha Unrau with a shout out as well to Candice Christiansen.
 
-I am going to be using a local installation of the spaCy library (spacy.io) to set this up. To download the same configuration that I will be using you can use something like what is modeled on the spaCy download page:
+I am going to be using a local installation of the spaCy library (spacy.io) or GPT-3, depending on use case approval, to set this up. To download the same configuration that I will be using you can use something like what is modeled on the spaCy download page:
 
 python3 -m venv .env
 
